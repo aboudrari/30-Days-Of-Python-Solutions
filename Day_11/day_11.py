@@ -99,3 +99,17 @@ def sum_of_numbers(number):
 print(sum_of_numbers(5))  # 15
 print(sum_of_numbers(10)) # 55
 print(sum_of_numbers(100)) # 5050    
+
+def sum_of_odds(numbers):
+    total = 0
+    for num in range(1 , numbers + 1):
+        if not num % 2 == 0 :
+            total += num
+    return total
+
+def sum_of_even(numbers):
+    total = 0
+    for num in range(1 , numbers + 1):
+        if  num % 2 == 0 :
+            total += num
+    return total
