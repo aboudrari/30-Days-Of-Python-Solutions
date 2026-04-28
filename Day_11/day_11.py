@@ -80,3 +80,22 @@ food_stuff = ['Potato', 'Tomato', 'Mango', 'Milk'];
 print(add_item(food_stuff, 'Meat'))     # ['Potato', 'Tomato', 'Mango', 'Milk','Meat'];
 numbers = [2, 3, 7, 9];
 print(add_item(numbers, 5))      # [2, 3, 7, 9, 5]
+
+def remove_item(lst , item):
+    lst.remove(item)
+    return lst
+
+food_stuff = ['Potato', 'Tomato', 'Mango', 'Milk']
+print(remove_item(food_stuff, 'Mango'))  # ['Potato', 'Tomato', 'Milk'];
+numbers = [2, 3, 7, 9]
+print(remove_item(numbers, 3))  # [2, 7, 9]
+
+def sum_of_numbers(number):
+    total = 0
+    for num in range(1 , number +1):
+        total += num
+    return total
+
+print(sum_of_numbers(5))  # 15
+print(sum_of_numbers(10)) # 55
+print(sum_of_numbers(100)) # 5050    
