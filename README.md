@@ -18,8 +18,8 @@
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01 | Introduction | ⏳ |
-| 02 | Variables & Built-in Functions | ⏳ |
+| 01 | Introduction | ✅ |
+| 02 | Variables & Built-in Functions | ✅ |
 | 03 | Operators | ⏳ |
 | 04 | Strings | ⏳ |
 | 05 | Lists | ⏳ |
@@ -28,8 +28,8 @@
 | 08 | Dictionaries | ⏳ |
 | 09 | Conditionals | ⏳ |
 | 10 | Loops | ⏳ |
-| 11 | Functions | 🔄 In Progress |
-| 12 | Modules | ⏳ |
+| 11 | Functions | ✅ |
+| 12 | Modules | 🔄 In Progress |
 | 13 | List Comprehension | ⏳ |
 | 14 | Higher Order Functions | ⏳ |
 | 15 | Python Type Errors | ⏳ |
