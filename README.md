@@ -20,7 +20,7 @@
 |-----|-------|--------|
 | 01 | Introduction | ✅ |
 | 02 | Variables & Built-in Functions | ✅ |
-| 03 | Operators | ⏳ |
+| 03 | Operators | ✅ |
 | 04 | Strings | ⏳ |
 | 05 | Lists | ⏳ |
 | 06 | Tuples | ⏳ |
