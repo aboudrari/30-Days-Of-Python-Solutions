@@ -1,23 +1,34 @@
+<div align="center">
+
 # 🐍 30 Days Of Python — Solutions
 
-> My personal journey through the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge by Asabeneh Yetayeh.  
-> Each day I study, code, and commit my solutions. Follow along! 🚀
+**My personal journey through the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge by Asabeneh Yetayeh.**
+Studying, coding, and committing one day at a time. 🚀
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Progress](https://img.shields.io/badge/Progress-3%2F30_Days-yellow)](#-progress-tracker)
+[![Last Commit](https://img.shields.io/github/last-commit/aboudrari/30-Days-Of-Python-Solutions?color=blue)](https://github.com/aboudrari/30-Days-Of-Python-Solutions/commits/main)
+[![Stars](https://img.shields.io/github/stars/aboudrari/30-Days-Of-Python-Solutions?style=social)](https://github.com/aboudrari/30-Days-Of-Python-Solutions/stargazers)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 📖 Table of Contents
 
-**Abdallah Aboudrari** — AI Engineering student at Cyprus International University (CIU), passionate about Python, Machine Learning, and AI development.
-
-- 🐙 GitHub: [aboudrari](https://github.com/aboudrari)
-- 💼 LinkedIn: [abdallah-aboudrari](https://linkedin.com/in/abdallah-aboudrari)
+- [Progress Tracker](#-progress-tracker)
+- [Folder Structure](#-folder-structure)
+- [How to Run](#️-how-to-run)
+- [Resources](#-resources)
 
 ---
 
 ## 📅 Progress Tracker
 
+`██████░░░░░░░░░░░░░░░░░░░░░░░░` **3 / 30 days completed**
+
 | Day | Topic | Status |
-|-----|-------|--------|
+|:---:|-------|:------:|
 | 01 | Introduction | ✅ |
 | 02 | Variables & Built-in Functions | ✅ |
 | 03 | Operators | ✅ |
@@ -29,7 +40,7 @@
 | 09 | Conditionals | ⏳ |
 | 10 | Loops | ⏳ |
 | 11 | Functions | ✅ |
-| 12 | Modules | 🔄 In Progress |
+| 12 | Modules | 🔄 |
 | 13 | List Comprehension | ⏳ |
 | 14 | Higher Order Functions | ⏳ |
 | 15 | Python Type Errors | ⏳ |
@@ -49,7 +60,7 @@
 | 29 | Building API | ⏳ |
 | 30 | Conclusions | ⏳ |
 
-> ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ⏳ Not Started
+<sub>✅ Done &nbsp;·&nbsp; 🔄 In Progress &nbsp;·&nbsp; ⏳ Not Started</sub>
 
 ---
 
@@ -58,6 +69,12 @@
 ```
 30-Days-Of-Python-Solutions/
 │
+├── Day_01/
+│   └── day_01.py
+├── Day_02/
+│   └── day_02.py
+├── Day_03/
+│   └── day_03.py
 ├── Day_11/
 │   └── day_11.py
 ├── Day_12/
@@ -72,6 +89,7 @@
 ```bash
 # Clone the repo
 git clone https://github.com/aboudrari/30-Days-Of-Python-Solutions.git
+cd 30-Days-Of-Python-Solutions
 
 # Navigate into any day
 cd Day_11
@@ -89,4 +107,8 @@ python day_11.py
 
 ---
 
-⭐ If you find this helpful, feel free to star the repo!
+<div align="center">
+
+⭐ **If you find this helpful, feel free to star the repo!**
+
+</div>
