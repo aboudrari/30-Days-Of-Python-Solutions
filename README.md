@@ -12,7 +12,7 @@ Studying, coding, and committing one day at a time. 🚀
 
 </div>
 
----
+----
 
 ## 📖 Table of Contents
 
@@ -21,7 +21,7 @@ Studying, coding, and committing one day at a time. 🚀
 - [How to Run](#️-how-to-run)
 - [Resources](#-resources)
 
----
+----
 
 ## 📅 Progress Tracker
 
