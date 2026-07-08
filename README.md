@@ -6,7 +6,7 @@
 Studying, coding, and committing one day at a time. 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Progress](https://img.shields.io/badge/Progress-3%2F30_Days-yellow)](#-progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-7%2F30_Days-yellow)](#-progress-tracker)
 [![Last Commit](https://img.shields.io/github/last-commit/aboudrari/30-Days-Of-Python-Solutions?color=blue)](https://github.com/aboudrari/30-Days-Of-Python-Solutions/commits/main)
 [![Stars](https://img.shields.io/github/stars/aboudrari/30-Days-Of-Python-Solutions?style=social)](https://github.com/aboudrari/30-Days-Of-Python-Solutions/stargazers)
 
@@ -25,7 +25,7 @@ Studying, coding, and committing one day at a time. 🚀
 
 ## 📅 Progress Tracker
 
-`██████░░░░░░░░░░░░░░░░░░░░░░░░` **3 / 30 days completed**
+`███████░░░░░░░░░░░░░░░░░░░░░░` **7 / 30 days completed**
 
 | Day | Topic | Status |
 |:---:|-------|:------:|
@@ -34,33 +34,33 @@ Studying, coding, and committing one day at a time. 🚀
 | 03 | Operators | ✅ |
 | 04 | Strings | ✅ |
 | 05 | Lists | ✅ |
-| 06 | Tuples | ⏳ |
-| 07 | Sets | ⏳ |
-| 08 | Dictionaries | ⏳ |
-| 09 | Conditionals | ⏳ |
-| 10 | Loops | ⏳ |
+| 06 | Dictionaries | ✅ |
+| 07 | Tuples | 🔄 |
+| 08 | Sets | 🔄 |
+| 09 | Conditionals | 🔄 |
+| 10 | Loops | 🔄 |
 | 11 | Functions | ✅ |
 | 12 | Modules | 🔄 |
-| 13 | List Comprehension | ⏳ |
-| 14 | Higher Order Functions | ⏳ |
-| 15 | Python Type Errors | ⏳ |
-| 16 | Python Date & Time | ⏳ |
-| 17 | Exception Handling | ⏳ |
-| 18 | Regular Expressions | ⏳ |
-| 19 | File Handling | ⏳ |
-| 20 | Python Package Manager | ⏳ |
-| 21 | Classes and Objects | ⏳ |
-| 22 | Web Scraping | ⏳ |
-| 23 | Virtual Environment | ⏳ |
-| 24 | Statistics | ⏳ |
-| 25 | Pandas | ⏳ |
-| 26 | Python Web | ⏳ |
-| 27 | Python with MongoDB | ⏳ |
-| 28 | API | ⏳ |
-| 29 | Building API | ⏳ |
-| 30 | Conclusions | ⏳ |
+| 13 | List Comprehension | 🔄 |
+| 14 | Higher Order Functions | 🔄 |
+| 15 | Python Type Errors | 🔄 |
+| 16 | Python Date & Time | 🔄 |
+| 17 | Exception Handling | 🔄 |
+| 18 | Regular Expressions | 🔄 |
+| 19 | File Handling | 🔄 |
+| 20 | Python Package Manager | 🔄 |
+| 21 | Classes and Objects | 🔄 |
+| 22 | Web Scraping | 🔄 |
+| 23 | Virtual Environment | 🔄 |
+| 24 | Statistics | 🔄 |
+| 25 | Pandas | 🔄 |
+| 26 | Python Web | 🔄 |
+| 27 | Python with MongoDB | 🔄 |
+| 28 | API | 🔄 |
+| 29 | Building API | 🔄 |
+| 30 | Conclusions | 🔄 |
 
-<sub>✅ Done &nbsp;·&nbsp; 🔄 In Progress &nbsp;·&nbsp; ⏳ Not Started</sub>
+<sub>✅ Done &nbsp;·&nbsp; 🔄 In Progress (lesson notes ready, exercises pending) &nbsp;·&nbsp; ⏳ Not Started</sub>
 
 ---
 
