@@ -25,7 +25,7 @@ Studying, coding, and committing one day at a time. 🚀
 
 ## 📅 Progress Tracker
 
-`███████░░░░░░░░░░░░░░░░░░░░░░` **7 / 30 days completed**
+`███████░░░░░░░░░░░░░░░░░░░░░░` **10 / 30 days completed**
 
 | Day | Topic | Status |
 |:---:|-------|:------:|
