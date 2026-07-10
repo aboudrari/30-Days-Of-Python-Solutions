@@ -35,9 +35,9 @@ Studying, coding, and committing one day at a time. 🚀
 | 04 | Strings | ✅ |
 | 05 | Lists | ✅ |
 | 06 | Dictionaries | ✅ |
-| 07 | Tuples | 🔄 |
-| 08 | Sets | 🔄 |
-| 09 | Conditionals | 🔄 |
+| 07 | Tuples | ✅ |
+| 08 | Sets | ✅ |
+| 09 | Conditionals | ✅ |
 | 10 | Loops | 🔄 |
 | 11 | Functions | ✅ |
 | 12 | Modules | 🔄 |
