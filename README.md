@@ -38,7 +38,7 @@ Studying, coding, and committing one day at a time. 🚀
 | 07 | Tuples | ✅ |
 | 08 | Sets | ✅ |
 | 09 | Conditionals | ✅ |
-| 10 | Loops | 🔄 |
+| 10 | Loops | ✅ |
 | 11 | Functions | ✅ |
 | 12 | Modules | 🔄 |
 | 13 | List Comprehension | 🔄 |
