@@ -40,7 +40,7 @@ Studying, coding, and committing one day at a time. 🚀
 | 09 | Conditionals | ✅ |
 | 10 | Loops | ✅ |
 | 11 | Functions | ✅ |
-| 12 | Modules | 🔄 |
+| 12 | Modules | ✅ |
 | 13 | List Comprehension | 🔄 |
 | 14 | Higher Order Functions | 🔄 |
 | 15 | Python Type Errors | 🔄 |
