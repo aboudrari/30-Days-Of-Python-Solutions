@@ -42,7 +42,7 @@ Studying, coding, and committing one day at a time. 🚀
 | 11 | Functions | ✅ |
 | 12 | Modules | ✅ |
 | 13 | List Comprehension | ✅ |
-| 14 | Higher Order Functions | 🔄 |
+| 14 | Higher Order Functions | ✅ |
 | 15 | Python Type Errors | 🔄 |
 | 16 | Python Date & Time | 🔄 |
 | 17 | Exception Handling | 🔄 |
